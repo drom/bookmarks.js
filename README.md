@@ -15,7 +15,10 @@ My collection of JavaScript bookmarks
 
 https://blog.jcoglan.com/
 
+[init.js](http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs)
+
 http://habrahabr.ru/post/213265/
+
 
 
 
