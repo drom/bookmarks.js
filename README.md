@@ -19,6 +19,4 @@ https://blog.jcoglan.com/
 
 http://habrahabr.ru/post/213265/
 
-
-
-
+http://theothersideofcode.com/building-full-javascript-application-stack
