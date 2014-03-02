@@ -7,27 +7,42 @@ My collection of JavaScript bookmarks
 * [node-webkit](https://github.com/rogerwang/node-webkit) -- node-webkit is an app runtime based on Chromium and node.js.
 
 ### Build/Test/Release
-
+* [yeoman.io](http://yeoman.io/) scaffolds out a new application, writing your Grunt configuration and pulling in relevant Grunt tasks and Bower dependencies that you might need for your build.
 * [grunt.js](http://gruntjs.com/) -- The JavaScript Task Runner
 * [mocha.js](http://visionmedia.github.io/mocha/) -- A feature-rich JavaScript test framework for asynchronous testing.
+* [vows.js](http://vowsjs.org/) is a behavior driven development (BDD) framework for Node.js.
+* 
 
 ### Web App tools
-
 * [meteor.js](https://www.meteor.com/) is an open-source platform for building top-quality web apps in a fraction of the time
 * [brackets.io](http://brackets.io/) -- Brackets is an open source code editor for web designers and front-end developers.
+* [Bower](http://bower.io/) is a package manager for the web.
+
+### Templating
+* [jade](http://jade-lang.com) language/engine for server side templating in node.js
+* [handlebars.js](http://handlebarsjs.com/) provides the power necessary to let you build semantic templates.
+* [less.css](http://lesscss.org/) is a CSS pre-processor
+* [Stylus](http://learnboost.github.io/stylus/) Expressive, robust, feature-rich CSS language built for nodejs
+
+### JS development tools
+* [JSHint](http://jshint.com/) is a community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team's coding conventions.
 
 ### Tools
-
 * [polymer.js](http://www.polymer-project.org/)
 * [underscore.js](http://underscorejs.org/) -- is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects
 * [express.js](http://expressjs.com/)
 * [connect.js](http://www.senchalabs.org/connect/) -- is a middleware framework for node, shipping with over 18 bundled middleware and a rich selection of 3rd-party middleware.
 * [docco](http://jashkenas.github.io/docco/) is a quick-and-dirty documentation generator
 * [backbone.js](http://backbonejs.org/) gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.
+* [require.js](http://requirejs.org/) is a JavaScript file and module loader
 
 ### DB
-
 * [mongoDB](http://www.mongodb.org/) -- MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
+
+### Cloud Services
+* [Coveralls](https://coveralls.io/) works with your continuous integration server to give you test coverage history and statistics.
+* [david-dm](https://david-dm.org/) gets you an overview of your project dependencies
+* [Travis-CI](https://travis-ci.org/) is a hosted continuous integration service for the open source community. It is integrated with GitHub.
 
 ### Blogs
 
