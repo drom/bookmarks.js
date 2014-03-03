@@ -10,7 +10,6 @@ My collection of JavaScript bookmarks
 * [grunt.js](http://gruntjs.com/) -- The JavaScript Task Runner
 * [mocha.js](http://visionmedia.github.io/mocha/) -- A feature-rich JavaScript test framework for asynchronous testing.
 * [vows.js](http://vowsjs.org/) is a behavior driven development (BDD) framework for Node.js.
-* 
 
 ### Web App tools
 * [meteor.js](https://www.meteor.com/) is an open-source platform for building top-quality web apps in a fraction of the time
