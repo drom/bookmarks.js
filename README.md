@@ -41,6 +41,7 @@ My collection of JavaScript bookmarks
 * [underscore.js](http://underscorejs.org/) -- is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects
 * [backbone.js](http://backbonejs.org/) gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.
 * [express.js](http://expressjs.com/)
+* [koa.js](http://koajs.com/) is a web framework for node.js
 * [connect.js](http://www.senchalabs.org/connect/) -- is a middleware framework for node, shipping with over 18 bundled middleware and a rich selection of 3rd-party middleware.
 * [docco](http://jashkenas.github.io/docco/) is a quick-and-dirty documentation generator
 * [require.js](http://requirejs.org/) is a JavaScript file and module loader.
