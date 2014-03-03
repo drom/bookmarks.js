@@ -4,12 +4,14 @@ My collection of JavaScript bookmarks
 * [chromium](http://www.chromium.org/) is an open-source browser project with [v8](https://code.google.com/p/v8/)  JavaScript engine.
 * [node.js](http://nodejs.org/) -- evented I/O for v8 javascript with [npm.js](https://www.npmjs.org/) Package manager.
 * [node-webkit](https://github.com/rogerwang/node-webkit) -- node-webkit is an app runtime based on Chromium and node.js.
+* [Phantom.js](http://phantomjs.org/) is a headless WebKit scriptable with a JavaScript API.
 
 ### Build/Test/Release
 * [yeoman.io](http://yeoman.io/) scaffolds out a new application, writing your Grunt configuration and pulling in relevant Grunt tasks and Bower dependencies that you might need for your build.
 * [grunt.js](http://gruntjs.com/) -- The JavaScript Task Runner
 * [mocha.js](http://visionmedia.github.io/mocha/) -- A feature-rich JavaScript test framework for asynchronous testing.
 * [vows.js](http://vowsjs.org/) is a behavior driven development (BDD) framework for Node.js.
+* [qunit.js](http://qunitjs.com/) is a powerful, easy-to-use JavaScript unit testing framework.
 
 ### Web App tools
 * [meteor.js](https://www.meteor.com/) is an open-source platform for building top-quality web apps in a fraction of the time
