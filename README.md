@@ -12,12 +12,14 @@ My collection of JavaScript bookmarks
 * [mocha.js](http://visionmedia.github.io/mocha/) -- A feature-rich JavaScript test framework for asynchronous testing.
 * [vows.js](http://vowsjs.org/) is a behavior driven development (BDD) framework for Node.js.
 * [qunit.js](http://qunitjs.com/) is a powerful, easy-to-use JavaScript unit testing framework.
+* [istanbul](https://github.com/gotwarlost/istanbul) Yet another JS code coverage tool
 
 ### Web App tools
 * [meteor.js](https://www.meteor.com/) is an open-source platform for building top-quality web apps in a fraction of the time
 * [brackets.io](http://brackets.io/) -- Brackets is an open source code editor for web designers and front-end developers.
 * [Bower](http://bower.io/) is a package manager for the web.
 * [Bootstrap](https://github.com/twbs/bootstrap) Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+* [ghost](https://ghost.org/) blogging platform
 
 ### Templating
 * [jade](http://jade-lang.com) language/engine for server side templating in node.js
@@ -42,6 +44,7 @@ My collection of JavaScript bookmarks
 * [connect.js](http://www.senchalabs.org/connect/) -- is a middleware framework for node, shipping with over 18 bundled middleware and a rich selection of 3rd-party middleware.
 * [docco](http://jashkenas.github.io/docco/) is a quick-and-dirty documentation generator
 * [require.js](http://requirejs.org/) is a JavaScript file and module loader.
+* [flatiron.js](http://flatironjs.org/) is an adaptable framework for building modern web applications. It was built from the ground up for use with Javascript and Node.js.
 
 ### DB
 * [mongoDB](http://www.mongodb.org/) -- MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
