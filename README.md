@@ -54,6 +54,9 @@ My collection of JavaScript bookmarks
 * [david-dm](https://david-dm.org/) gets you an overview of your project dependencies
 * [Travis-CI](https://travis-ci.org/) is a hosted continuous integration service for the open source community. It is integrated with GitHub.
 
+### Other JS tools
+* [pdf.js](http://mozilla.github.io/pdf.js/) PDF Reader in JavaScript
+
 ### Blogs
 
 https://blog.jcoglan.com/
