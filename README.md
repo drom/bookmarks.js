@@ -10,6 +10,7 @@ My collection of JavaScript bookmarks
 * [yeoman.io](http://yeoman.io/) scaffolds out a new application, writing your Grunt configuration and pulling in relevant Grunt tasks and Bower dependencies that you might need for your build.
 * [grunt.js](http://gruntjs.com/) -- The JavaScript Task Runner
 * [mocha.js](http://visionmedia.github.io/mocha/) -- A feature-rich JavaScript test framework for asynchronous testing.
+* [chai.js](https://github.com/chaijs/chai) -- BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [vows.js](http://vowsjs.org/) is a behavior driven development (BDD) framework for Node.js.
 * [qunit.js](http://qunitjs.com/) is a powerful, easy-to-use JavaScript unit testing framework.
 * [istanbul](https://github.com/gotwarlost/istanbul) Yet another JS code coverage tool
