@@ -27,6 +27,7 @@ My collection of JavaScript bookmarks
 * [handlebars.js](http://handlebarsjs.com/) provides the power necessary to let you build semantic templates.
 * [less.css](http://lesscss.org/) is a CSS pre-processor
 * [Stylus](http://learnboost.github.io/stylus/) Expressive, robust, feature-rich CSS language built for nodejs.
+* [ect.js](https://github.com/baryshev/ect) Fastest JavaScript template engine with embedded CoffeeScript syntax.
 
 ### Language tools
 * [CoffeeScript](http://coffeescript.org/) is a little language that compiles into JavaScript.
