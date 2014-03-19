@@ -72,3 +72,5 @@ http://theothersideofcode.com/building-full-javascript-application-stack
 
 http://blog.ponyfoo.com/ Ramblings of a degenerate coder
 
+http://npmawesome.com/ npm picks, old and new posted by Alex Gorbatchev
+
