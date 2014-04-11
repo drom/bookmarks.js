@@ -23,6 +23,7 @@ My collection of JavaScript bookmarks
 * [ghost](https://ghost.org/) blogging platform
 
 ### Templating
+* [template-chooser](http://garann.github.io/template-chooser/) Tool to help select the right template engine for a project.
 * [angular.js](http://angularjs.org/) live templating MVC framework
 * [jade](http://jade-lang.com) language/engine for server side templating in node.js
 * [handlebars.js](http://handlebarsjs.com/) provides the power necessary to let you build semantic templates.
