@@ -34,6 +34,7 @@ My collection of JavaScript bookmarks
 ### Language tools
 * [CoffeeScript](http://coffeescript.org/) is a little language that compiles into JavaScript.
 * [Jison](http://zaach.github.io/jison/) parser generator.
+* [pegjs](http://pegjs.majda.cz/) simple parser generator for JavaScript.
 * [Uglify.js](http://lisperator.net/uglifyjs/) a JavaScript compressor/minifier written in JavaScript. +[parser](http://lisperator.net/uglifyjs/parser) +[AST](http://lisperator.net/uglifyjs/ast) +[code generator](http://lisperator.net/uglifyjs/codegen) +[compressor](http://lisperator.net/uglifyjs/compress) +[name mangler](http://lisperator.net/uglifyjs/mangle)
 
 ### JS development tools
