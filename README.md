@@ -63,6 +63,24 @@ My collection of JavaScript bookmarks
 ### Other JS tools
 * [pdf.js](http://mozilla.github.io/pdf.js/) PDF Reader in JavaScript
 
+### Diagrams
+
+#### UML
+
+ * [websequencediagrams.com](https://www.websequencediagrams.com) -> [node-websequencediagrams](https://github.com/hildjj/node-websequencediagrams) -> [grunt-websequencediagrams](https://github.com/markbirbeck/grunt-websequencediagrams)
+
+#### TeX
+
+ * MathJax
+   * [MathJax](https://github.com/mathjax/MathJax) Beautiful math in all browsers
+   * [mathoid](https://github.com/gwicke/mathoid) server side render with PhantomJS
+   * [mathjax-ext-contrib](https://github.com/leathrum/mathjax-ext-contrib) Contributed extensions for MathJax
+
+### Wiki engines
+
+ * [marked](https://github.com/chjj/marked) A markdown parser and compiler. Built for speed. **nodejs**
+ * [gollum](https://github.com/gollum/gollum) A simple, Git-powered wiki with a sweet API and local frontend.
+
 ### Blogs
 
 https://blog.jcoglan.com/
@@ -76,4 +94,3 @@ http://theothersideofcode.com/building-full-javascript-application-stack
 http://blog.ponyfoo.com/ Ramblings of a degenerate coder
 
 http://npmawesome.com/ npm picks, old and new posted by Alex Gorbatchev
-
