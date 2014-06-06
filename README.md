@@ -69,6 +69,23 @@ My collection of JavaScript bookmarks
 
 * [JSHint](http://jshint.com/) is a community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team's coding conventions.
 
+### Async flow control
+
+* [async.js](https://github.com/caolan/async) - Async utilities for node and the browser
+* [callbackhell.com](http://callbackhell.com) - A guide to writing asynchronous javascript programs
+* [Comparing Node.js Promises, Try/Catch, Angular Zone.js and yes, Zone](http://npmawesome.com/posts/2014-04-16-promises-trycatch-zones/)
+* [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
+
+#### Promises
+
+* [q](https://github.com/kriskowal/q) A tool for making and composing asynchronous promises
+* [bluebird](https://github.com/petkaantonov/bluebird) is a full featured promise library with unmatched performance.
+
+#### Zones
+
+* [zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
+* [zone](https://github.com/strongloop/zone) - Flow control and error handling for Node.js
+
 ### Tools
 
 * [Common.js](http://www.commonjs.org/) is a project with the goal of specifying an ecosystem for JavaScript outside the browser.
