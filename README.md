@@ -113,11 +113,13 @@ My collection of JavaScript bookmarks
 * [pdf.js](http://mozilla.github.io/pdf.js/) PDF Reader in JavaScript
 
 
-## Schema validation
-
-### JSON
+## JSON Schema validation
 
 * [tv4](https://github.com/geraintluff/tv4) Tiny Validator for JSON Schema v4 ([grunt-tv4](https://github.com/Bartvds/grunt-tv4))
+* [jjv](https://github.com/acornejo/jjv) A simple and extensible json-schema validator
+* [jayschema](https://github.com/natesilva/jayschema) A comprehensive JSON Schema validator for Node.js
+* [z-schema](https://github.com/zaggino/z-schema) ([grunt-z-schema](https://github.com/petrbela/grunt-z-schema))
+
 
 ## Documentation
 
