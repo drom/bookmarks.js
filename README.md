@@ -55,9 +55,26 @@ My collection of JavaScript bookmarks
 * [typeahead.js](https://github.com/twitter/typeahead.js) is a fast and fully-featured autocomplete library
 
 
-### Language tools
+### Mozilla's [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format processing tools
 
 * [esprima](https://github.com/ariya/esprima) ECMAScript parsing infrastructure for multipurpose analysis
+* [escodegen](https://github.com/Constellation/escodegen) ECMAScript code generator
+* [eslint](https://github.com/eslint/eslint) A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+* [esvalid](https://github.com/michaelficarra/esvalid) confirm that a SpiderMonkey format AST represents an ECMAScript program
+* [escomplex](https://github.com/philbooth/escomplex) Software complexity analysis of JavaScript-family abstract syntax trees.
+* [ast-types](https://github.com/benjamn/ast-types) Esprima-compatible implementation of the Mozilla JS Parser API
+* [esutils](https://github.com/Constellation/esutils) utility box for ECMAScript language tools
+* [esdispatch](https://github.com/michaelficarra/esdispatch) trigger events based on esquery selectors during a traversal of a SpiderMonkey format AST
+* [esquery](https://github.com/jrfeenst/esquery) ECMAScript AST query library
+* [espower](https://github.com/twada/espower) Power Assert feature instrumentor based on the Mozilla JavaScript AST
+* [esshorten](https://github.com/Constellation/esshorten) Shorten (mangle) names in JavaScript code
+* [escope](https://github.com/Constellation/escope) scope analyzer
+* [estraverse](https://github.com/Constellation/estraverse) AST traversal functions
+* [esmangle](https://github.com/Constellation/esmangle) esmangle is mangler / minifier for Mozilla Parser API AST
+* [esrefactor](https://github.com/ariya/esrefactor) little helper library for ECMAScript refactoring.
+
+### Language tools
+
 * [Jison](http://zaach.github.io/jison/) parser generator.
 * [pegjs](http://pegjs.majda.cz/) simple parser generator for JavaScript.
 
