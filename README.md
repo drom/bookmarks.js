@@ -115,6 +115,13 @@ My collection of JavaScript bookmarks
 * [require.js](http://requirejs.org/) is a JavaScript file and module loader.
 * [flatiron.js](http://flatironjs.org/) is an adaptable framework for building modern web applications. It was built from the ground up for use with Javascript and Node.js.
 
+### Colors
+
+* [colors](https://github.com/Marak/colors.js) get colors in your node.js console
+* [chalk](https://github.com/sindresorhus/chalk) Terminal string styling done right
+* [cli-color](https://github.com/medikoo/cli-color) Colors and formatting for the console
+* [colog](https://github.com/dariuszp/colog) colog - console.log with colors for Node.js
+
 ### DB
 
 * [mongoDB](http://www.mongodb.org/) -- MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database.
