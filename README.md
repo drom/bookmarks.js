@@ -13,7 +13,7 @@ My collection of JavaScript bookmarks
 
 ### Test
 
-* [mocha.js](http://visionmedia.github.io/mocha/) -- A feature-rich JavaScript test framework for asynchronous testing.
+* [mocha.js](http://mochajs.org/) -- A feature-rich JavaScript test framework for asynchronous testing.
 * [chai.js](https://github.com/chaijs/chai) -- BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [qunit.js](http://qunitjs.com/) is a powerful, easy-to-use JavaScript unit testing framework.
 * [karma](https://github.com/karma-runner/karma) Spectacular Test Runner for JavaScript
